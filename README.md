@@ -6,11 +6,12 @@ This project focuses on the Electromyographic (EMG) analysis of the Zygomaticus 
 ## Project Structure
 
 - **Code Files**
-  - `EMG_Signal_Analysis.m`: MATLAB script for processing and analyzing EMG signals.
+  - `Frequency_Domain_Analysis.m`: MATLAB script for processing and analyzing EMG signals in Frequency Domain.
+  - `Time_Domain_Analysis.m`: MATLAB script for processing and analyzing EMG signals in Time Domain.
   
 - **Data Files**
-  - `Project_4_Task.mat`: Task-specific EMG signal data.
-  - `Project_4_Baseline.mat`: Baseline EMG signal data.
+  - `Task.mat`: Task-specific EMG signal data.
+  - `Baseline.mat`: Baseline EMG signal data.
 
 - **Documentation**
   - `EMG_Signal_Analysis.pdf`: Detailed documentation explaining the project, data acquisition, preprocessing steps, and analysis results.
