@@ -19,7 +19,7 @@ This project focuses on the Electromyographic (EMG) analysis of the Zygomaticus 
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Ensure you have MATLAB installed to run the analysis script.
-3. Open and run `EMG_Signal_Analysis.m` to perform the EMG signal analysis.
+3. Open and run `Frequency_Domain_Analysis.m` &  `Time_Domain_Analysis.m`to perform the EMG signal analysis.
 
 ## Data Acquisition
 - sEMG signals were acquired from the Zygomaticus major muscle.
